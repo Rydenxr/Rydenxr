@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Developer. Experienced in JavaScript, TypeScript, Node.js, Nest.js, Java, Spring Boot, SQL & Docker. Creating software is what I enjoy doing the most<br><br>I continue to work on improving my skills and expanding my knowledge.
+Backend Developer. Experienced in JavaScript, TypeScript, Node.js, Nest.js, Java, Spring Boot, SQL & Docker. Creating software is what I enjoy doing the most.<br><br>I continue to work on improving my skills and expanding my knowledge.
 
 
 ## 🌐 Socials:
