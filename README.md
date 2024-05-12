@@ -1,5 +1,13 @@
 # 💫 About Me:
-Backend Developer. Experienced in JavaScript, TypeScript, Node.js, Nest.js, Java, Spring Boot, SQL & Docker. Creating software is what I enjoy doing the most.<br><br>I continue to work on improving my skills and expanding my knowledge.
+Hello, I'm Francisco Andrade, a passionate Systems Engineer with a solid experience in backend development. With 4 years of experience in the industry, I've worked on a variety of projects, each with its own challenges and learnings.
+
+My focus has always been to create efficient and scalable solutions that address real-world problems. I firmly believe in the value of good software design and the importance of good coding practices. I strive to write clean and maintainable code, and I enjoy working in teams where I can learn from others and share my own experiences.
+
+In addition to my work as a developer, I'm also passionate about continuous learning and learning new technologies and techniques. I believe that technology is constantly evolving, and as developers, we must be willing to adapt and learn constantly.
+
+In my free time, I enjoy sharing knowledge and collaborating with others. I consider it one of the best ways to grow as a professional.
+
+If you have any questions, an idea for an interesting project, or simply want to chat about technology, I'm always open to new connections and collaborations.
 
 
 ## 🌐 Socials:
