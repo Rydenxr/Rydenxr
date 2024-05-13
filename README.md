@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello. This is Francisco Andrade, a passionate Systems Engineer with a solid experience in backend development. With 4 years of experience in the industry, I've worked on a variety of projects, each with its own challenges and learnings.
+Hi. This is Francisco Andrade, a passionate Systems Engineer with a solid experience in backend development. With 4 years of experience in the industry, I've worked on a variety of projects, each with its own challenges and learnings.
 
 My focus has always been to create efficient and scalable solutions that address real-world problems. I firmly believe in the value of good software design and the importance of good coding practices. I strive to write clean and maintainable code, and I enjoy working in teams where I can learn from others and share my own experiences.
 
